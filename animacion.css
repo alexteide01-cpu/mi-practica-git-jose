@@ -1,0 +1,6 @@
+.boton-animado {
+    transition: transform 0.3s;
+}
+.boton-animado:hover {
+    transform: scale(1.1);
+}
